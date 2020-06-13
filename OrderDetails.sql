@@ -1,0 +1,10 @@
+insert into OrderDetails (discount, order_number, quantity, unit_price) values ('$6.42', 32, 73, 81);
+insert into OrderDetails (discount, order_number, quantity, unit_price) values ('$9.81', 92, 25, 29);
+insert into OrderDetails (discount, order_number, quantity, unit_price) values ('$7.53', 65, 87, 34);
+insert into OrderDetails (discount, order_number, quantity, unit_price) values ('$2.31', 61, 45, 68);
+insert into OrderDetails (discount, order_number, quantity, unit_price) values ('$2.27', 29, 68, 13);
+insert into OrderDetails (discount, order_number, quantity, unit_price) values ('$0.43', 54, 87, 32);
+insert into OrderDetails (discount, order_number, quantity, unit_price) values ('$7.35', 44, 100, 78);
+insert into OrderDetails (discount, order_number, quantity, unit_price) values ('$7.52', 12, 79, 30);
+insert into OrderDetails (discount, order_number, quantity, unit_price) values ('$1.39', 72, 10, 33);
+insert into OrderDetails (discount, order_number, quantity, unit_price) values ('$4.10', 98, 75, 83);
