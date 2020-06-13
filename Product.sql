@@ -1,0 +1,10 @@
+insert into Product (product_id, product_name, product_type, product_picture) values (1, 'Acetaminophen', 'Synchronised reciprocal contingency', null);
+insert into Product (product_id, product_name, product_type, product_picture) values (2, 'Ropinirole Hydrochloride', 'Team-oriented radical protocol', null);
+insert into Product (product_id, product_name, product_type, product_picture) values (3, 'FLUOXETINE HYDROCHLORIDE, CHOLINE', 'Customizable methodical flexibility', null);
+insert into Product (product_id, product_name, product_type, product_picture) values (4, 'Niacin', 'Networked national help-desk', null);
+insert into Product (product_id, product_name, product_type, product_picture) values (5, 'benzocaine', 'Progressive object-oriented focus group', null);
+insert into Product (product_id, product_name, product_type, product_picture) values (6, 'Miconazole Nitrate', 'Reactive system-worthy ability', null);
+insert into Product (product_id, product_name, product_type, product_picture) values (7, 'Miconazole nitrate', 'Visionary upward-trending utilisation', null);
+insert into Product (product_id, product_name, product_type, product_picture) values (8, 'Polyethylene Glycol 3350', 'Automated user-facing benchmark', null);
+insert into Product (product_id, product_name, product_type, product_picture) values (9, 'Sodium Fluoride', 'Streamlined static pricing structure', null);
+insert into Product (product_id, product_name, product_type, product_picture) values (10, 'Octinoxate and Titanium dioxide', 'Persevering methodical access', null);
