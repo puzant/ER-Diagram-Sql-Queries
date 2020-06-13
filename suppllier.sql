@@ -1,0 +1,10 @@
+insert into suppllier (suppllier_id, suppllier_name, company_name, contact_name) values (1, 'Sharia', 'Realblab', 'Rébecca');
+insert into suppllier (suppllier_id, suppllier_name, company_name, contact_name) values (2, 'Gery', 'Oodoo', 'Cléa');
+insert into suppllier (suppllier_id, suppllier_name, company_name, contact_name) values (3, 'Idalina', 'BlogXS', 'Cunégonde');
+insert into suppllier (suppllier_id, suppllier_name, company_name, contact_name) values (4, 'Rosalynd', 'Livepath', 'Dù');
+insert into suppllier (suppllier_id, suppllier_name, company_name, contact_name) values (5, 'Wendy', 'Lazz', 'Magdalène');
+insert into suppllier (suppllier_id, suppllier_name, company_name, contact_name) values (6, 'Mag', 'Zoonoodle', 'Estève');
+insert into suppllier (suppllier_id, suppllier_name, company_name, contact_name) values (7, 'Dorotea', 'DabZ', 'Séverine');
+insert into suppllier (suppllier_id, suppllier_name, company_name, contact_name) values (8, 'Ferdinanda', 'Reallinks', 'Lèi');
+insert into suppllier (suppllier_id, suppllier_name, company_name, contact_name) values (9, 'Jacquelynn', 'Realcube', 'Loïc');
+insert into suppllier (suppllier_id, suppllier_name, company_name, contact_name) values (10, 'Winslow', 'Topicshots', 'Miléna');
